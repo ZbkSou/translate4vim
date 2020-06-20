@@ -5,3 +5,9 @@
 source 你的vim插件位置,本示例为~/translate.vim
 一个完整的示例为：
 source ~/translate.vim
+
+选中单词单词
+TWR 翻译单词替换
+TW 翻译单词
+ TLR 翻译长句替换
+TL 翻译长句
